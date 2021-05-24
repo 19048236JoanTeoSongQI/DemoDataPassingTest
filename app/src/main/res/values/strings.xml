@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Demo Data Passing Test</string>
+    <string name="getdouble">Pass double value to 2nd activity</string>
+</resources>
